@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Likvido.Credit.DTOs\Likvido.Credit.DTOs.csproj" />
+    <ProjectReference Include="..\Likvido.Credit.ElasticSearch.Abstraction\Likvido.Credit.ElasticSearch.Abstraction.csproj" />
+    <ProjectReference Include="..\Likvido.Credit.Services.Abstraction\Likvido.Credit.Services.Abstraction.csproj" />
+  </ItemGroup>
+
+</Project>

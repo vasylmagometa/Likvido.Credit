@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Likvido.Credit.API/bin/Debug/netcoreapp2.0
+/.vs/Likvido.Credit/v15/Server/sqlite3
+/Likvido.Credit.API/obj
+/Likvido.Credit.DTOs/bin/Debug/netcoreapp2.0
+/Likvido.Credit.DTOs/obj
+/Likvido.Credit.ElasticSearch/bin/Debug/netcoreapp2.0
+/Likvido.Credit.ElasticSearch/obj
+/Likvido.Credit.ElasticSearch.Abstraction/bin/Debug/netcoreapp2.0
+/Likvido.Credit.ElasticSearch.Abstraction/obj
+/Likvido.Credit.Infrastructure/bin/Debug/netcoreapp2.0
+/Likvido.Credit.Infrastructure/obj
+/Likvido.Credit.Services/bin/Debug/netcoreapp2.0
+/Likvido.Credit.Services/obj
+/Likvido.Credit.Services.Abstraction/bin/Debug/netcoreapp2.0
+/Likvido.Credit.Services.Abstraction/obj

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NEST" Version="6.1.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Likvido.Credit.ElasticSearch.Abstraction\Likvido.Credit.ElasticSearch.Abstraction.csproj" />
+    <ProjectReference Include="..\Likvido.Credit.Infrastructure\Likvido.Credit.Infrastructure.csproj" />
+  </ItemGroup>
+
+</Project>
